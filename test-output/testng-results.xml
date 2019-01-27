@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4293" started-at="2019-01-27T14:38:40Z" finished-at="2019-01-27T14:38:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4293" started-at="2019-01-27T14:38:40Z" finished-at="2019-01-27T14:38:45Z">
+      <class name="tests.DeleteBook">
+        <test-method status="PASS" signature="verifyDeleteBook()[pri:0, instance:tests.DeleteBook@6e06451e]" name="verifyDeleteBook" duration-ms="4252" started-at="2019-01-27T14:38:41Z" finished-at="2019-01-27T14:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteBook -->
+      </class> <!-- tests.DeleteBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
